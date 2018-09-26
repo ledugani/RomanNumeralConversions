@@ -1,0 +1,7 @@
+C:\Users\student\source\repos\RomanNumeralConversions\RomanNumeralConversions\bin\Debug\RomanNumeralConversions.exe.config
+C:\Users\student\source\repos\RomanNumeralConversions\RomanNumeralConversions\bin\Debug\RomanNumeralConversions.exe
+C:\Users\student\source\repos\RomanNumeralConversions\RomanNumeralConversions\bin\Debug\RomanNumeralConversions.pdb
+C:\Users\student\source\repos\RomanNumeralConversions\RomanNumeralConversions\obj\Debug\RomanNumeralConversions.csprojAssemblyReference.cache
+C:\Users\student\source\repos\RomanNumeralConversions\RomanNumeralConversions\obj\Debug\RomanNumeralConversions.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\RomanNumeralConversions\RomanNumeralConversions\obj\Debug\RomanNumeralConversions.exe
+C:\Users\student\source\repos\RomanNumeralConversions\RomanNumeralConversions\obj\Debug\RomanNumeralConversions.pdb
