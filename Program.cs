@@ -15,24 +15,33 @@ namespace RomanNumeralConversions
 
             if (int.TryParse(userInput, out int result))
             {
-                Console.WriteLine(result);
                 var x = Math.Floor(Math.Log10(result) + 1);
-                
+                Console.WriteLine("Your number in roman numerals is");
                 switch (x)
                 {
                     case 1:
                         // convert to roman numeral ones
+                        if (result == 1)
+                        {
+                            Console.Write("I");
+                        }
+                        else if (result == 2)
+                        {
+                            Console.Write("II");
+                        }
                         break;
 
                     case 2:
                         // convert second digit to roman numeral ones
                         // AND convert first digit to roman numeral tens
+                        Console.WriteLine("it was two digits");
                         break;
 
                     case 3:
                         // convert third digit to roman numeral ones
                         // AND convert second digit to roman numeral tens
                         // AND convert third digit to roman numeral hundreds
+                        Console.WriteLine("it was three digits");
                         break;
 
                     case 4:
@@ -40,6 +49,7 @@ namespace RomanNumeralConversions
                         // AND convert second digit to roman numeral tens
                         // AND convert third digit to roman numeral hundreds
                         // AND convert fourth digit to roman numeral thousands 
+                        Console.WriteLine("it was four digits");
                         break;
 
                     default:
