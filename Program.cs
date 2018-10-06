@@ -71,6 +71,7 @@ namespace RomanNumeralConversions
 
                     case 3:
                         // convert third digit to roman numeral ones
+                        // oh god
                         // AND convert second digit to roman numeral tens
                         // AND convert third digit to roman numeral hundreds
                         break;
